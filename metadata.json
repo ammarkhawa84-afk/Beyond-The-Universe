@@ -1,0 +1,7 @@
+{
+  "name": "نور القرآن ومواقيت الصلاة",
+  "description": "تطبيق إسلامي شامل لتعلم وترتيل القرآن الكريم بأصوات كبار القراء مع مواقيت الصلاة والأذان وتحديد القبلة والأذكار اليومية.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
